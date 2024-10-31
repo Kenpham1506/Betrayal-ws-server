@@ -1,0 +1,13 @@
+{
+    "name": "betrayal-ws-server",
+    "version": "1.0.0",
+    "description": "WebSocket server for Betrayal at House on the Hill",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "ws": "^8.0.0",
+        "express": "^4.17.1"
+    }
+}
